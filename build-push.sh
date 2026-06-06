@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-ACCOUNT_ID="863570158116"
+ACCOUNT_ID="123456789"
 REGION="us-east-1"
 PROFILE="own"
 REGISTRY="${ACCOUNT_ID}.dkr.ecr.${REGION}.amazonaws.com"
